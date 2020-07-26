@@ -1,2 +1,2 @@
-# eleriumcc
+# cybexsphere
 ShareX Image uploader
